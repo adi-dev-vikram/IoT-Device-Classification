@@ -1,3 +1,3 @@
 # IoT-Device-Classification
-model that predicts the type of iot devices. Thus, providing better visibility of the network.
+Supervised ML model that predicts the type of IoT devices. Thus, providing better visibility of the network.
 Will update soon...
